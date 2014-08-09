@@ -7,6 +7,9 @@
 [![Total Downloads] [downloads-img]][downloads-url]
 [![Support via PayPal][paypal-donate-img]][paypal-donate-url]
 
+[![Latest Version](https://img.shields.io/github/release/juy/setting.svg?style=flat)](https://github.com/juy/setting/releases)
+
+[![Latest Version](https://img.shields.io/github/release/thephpleague/factory-muffin.svg?style=flat)](https://github.com/thephpleague/factory-muffin/releases)
 
 > Test repo for Travis CI + Laravel.
 
